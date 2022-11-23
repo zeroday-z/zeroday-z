@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zeroday</h1>
 <h3 align="center">A web and backend-developer based in germany.</h3>
 
-- 🔭 I’m currently working on **CyberAnt**
+- 🔭 I’m currently working on **zeroCDN v2** & **CyberAnt**
 
 - 👯 I’m looking to collaborate on **GTA V projects**
 
