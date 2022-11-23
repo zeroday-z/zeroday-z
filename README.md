@@ -5,8 +5,9 @@
 
 - 👯 I’m looking to collaborate on **GTA V projects**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">WHOAMI?:</h3>
 <p align="left">
+I am a passionate web & networking developer from germany. My main-focus is on pentesting, backend developing & networking-engineering. Feel free to contact me!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
