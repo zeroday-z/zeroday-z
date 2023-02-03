@@ -16,5 +16,5 @@ Greetings! I am an fullstack-developer from germany. Feel free to check out my r
 
 <span>GitHub : [zeroday-z](https://github.com/zeroday-z)</span>
 </br>
-hi toxic.exe c:
+
 
