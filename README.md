@@ -17,4 +17,4 @@ Greetings! I am an fullstack-developer from germany. Feel free to check out my r
 <span>GitHub : [zeroday-z](https://github.com/zeroday-z)</span>
 </br>
 
-<img src="[url](https://github.githubassets.com/images/mona-loading-dark.gif)" alt="alt text" width="250" height="250">
+
