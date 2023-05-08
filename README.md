@@ -16,5 +16,5 @@ Greetings! I am an fullstack-developer from germany. Feel free to check out my r
 
 <span>GitHub : [zeroday-z](https://github.com/zeroday-z)</span>
 </br>
-![zeroday](https://github.githubassets.com/images/mona-loading-dark.gif)
+![zeroday](https://github.githubassets.com/images/mona-loading-dark.gif =250x250)
 
