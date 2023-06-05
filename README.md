@@ -1,4 +1,4 @@
-# README
+# zeroday - coding with passion.
 ![ThisIsMe](https://cdn.discordapp.com/attachments/918254594830782465/1115201665541349396/KFZgOio_1.png)
 
 > **Main Languages**
