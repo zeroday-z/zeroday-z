@@ -21,7 +21,33 @@
 
 </br>
 
-<span>GitHub : [zeroday-z](https://github.com/zeroday-z)</span>
+👨‍💻 Fullstack Developer | Major-Level Networking Engineer
+🌐 Building robust web applications and optimizing network infrastructure
+
+🚀 Passionate about creating seamless user experiences and crafting elegant solutions that blend cutting-edge technologies with efficient networking protocols.
+
+💡 Expertise:
+- Fullstack Development (JavaScript/TypeScript, React, Vue.js, Node.js)
+- Networking (TCP/IP, DNS, VPN, Routing, Switching)
+- Cloud Computing (AWS, Azure, GCP)
+- Security (Firewalls, Intrusion Detection Systems)
+
+🎯 Currently focused on:
+- Leveraging Next.js and React to build performant, scalable web applications
+- Exploring blockchain technology (Web3) and its applications in decentralized systems
+- Designing and implementing secure and resilient network architectures
+
+🌟 Let's connect and collaborate on exciting projects! Feel free to reach out for networking opportunities, coding discussions, or a friendly chat. 🤝
+
+📫 Contact me:
+- 🌐 Website: [yourwebsite.com](https://zeroday.ws)
+- 📧 Email: deni@zeroday.ws
+- 🐦 Twitter: [@yourhandle](https://twitter.com/)
+
+
+🔗 Check out my repositories below to explore my work and contributions. Open to collaborations and sharing knowledge!
+
+
 </br>
 
 
