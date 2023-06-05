@@ -40,7 +40,7 @@
 🌟 Let's connect and collaborate on exciting projects! Feel free to reach out for networking opportunities, coding discussions, or a friendly chat. 🤝
 
 📫 Contact me:
-- 🌐 Website: [yourwebsite.com](https://zeroday.ws)
+- 🌐 Website: [zeroday.ws](https://zeroday.ws)
 - 📧 Email: deni@zeroday.ws
 - 🐦 Twitter: [@yourhandle](https://twitter.com/)
 
