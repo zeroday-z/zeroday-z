@@ -42,7 +42,7 @@
 📫 Contact me:
 - 🌐 Website: [zeroday.ws](https://zeroday.ws)
 - 📧 Email: deni@zeroday.ws
-- 🐦 Twitter: [@yourhandle](https://twitter.com/)
+- 🐦 Twitter: [@twitter](https://twitter.com/)
 
 
 🔗 Check out my repositories below to explore my work and contributions. Open to collaborations and sharing knowledge!
