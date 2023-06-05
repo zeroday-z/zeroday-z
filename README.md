@@ -1,5 +1,5 @@
 # README
-Greetings! I am an fullstack-developer from germany. Feel free to check out my repos!
+![ThisIsMe](https://cdn.discordapp.com/attachments/918254594830782465/1115201665541349396/KFZgOio_1.png)
 
 > **Main Languages**
 > 
