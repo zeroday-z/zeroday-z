@@ -1,8 +1,7 @@
-# zeroday - coding with passion.
 ![ThisIsMe](https://i.imgur.com/JUtsYba.png)
 
 > **Main Languages**
-> 
+![ThisIsCode](https://i.imgur.com/dJg7MdJ.png)
 > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 > ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
